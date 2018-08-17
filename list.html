@@ -1,0 +1,72 @@
+---
+layout: home
+name: "list"
+---
+<!--头-->
+<header style="background: url(./images/cherry-header.jpg) no-repeat; background-position: -10px;">
+    <div class="hed">
+
+        <div style="height: 15px"></div>
+        <h1 style="text-align: center;"><span style="font-size: xx-large;"><strong>Our Courses</strong></span></h1>
+        <h3 style="text-align: center;">Browse the list of courses below, all our courses are self paced Online Format</h3>
+    </div>
+</header>
+
+<div style="height: 150px"></div>
+<main>
+    <div class="container" >
+        {% for post in site.posts%}
+        <div class="row" style="background: white">
+            <div class="col-md-3">
+                <img src="/images/Cherry-course-1-400x250.jpg" class="im1"  alt="">
+            </div>
+            <div class="col-md-6 d6">
+                <h2><a href="{{ post.url }}">{{post.title}}</a></h2>
+                <div class="xingxing">
+                    <div class="glyphicon glyphicon-star"></div>
+                    <div class="glyphicon glyphicon-star"></div>
+                    <div class="glyphicon glyphicon-star"></div>
+                    <div class="glyphicon glyphicon-star"></div>
+                    <div class="glyphicon glyphicon-star"></div>
+                    <span class="kuo">( 0 reviews )</span>
+                </div>
+                <div class="post-content">
+                    The How To Cook Cherries is a one-of-a-kind online cherry cooking course. It’s a step-by-step cooking program complete with detailed training guides and video demonstrations … AND let me stress this next point … It is super easy to use !…
+                </div>
+                <div class="more">
+                    <a href="">+Read more</a>
+                </div>
+                <div class="dibu">
+                    <img src="./images/55a39cc89eb750f163753aa5cd849e71.jpg" class="tutu" alt="">
+                    <p class="wenzi">Tech Support </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="price">
+                    FREE
+                </div>
+                <a style="color: #FFF !important; background: #b40431; font-size: 16px; border-color:#b40431" class="btn-cv" href="https://demo3.academyofmine.com/course/how-to-cook-cherries/start-course">Enroll in Course</a>
+            </div>
+        </div>
+         {% endfor %}
+
+    </div>
+</main>
+
+
+<!-- dibu-->
+<div class="ddd">
+    <div class="asd">
+        <h2>Our All-In-One Course Bundle</h2>
+        <h3>Click the link below to get all our courses for $199</h3>
+        <p>All Our courses have 10 day refund policy if you are not satisfied. No questions asked.</p>
+    </div>
+    <div class="e-but">
+        <a class="et_pb_button" href="https://demo3.academyofmine.com/product/bundled-all-in-one-cherry-classes/">
+            Enroll Now
+        </a>
+    </div>
+</div>
+<!--底部-->
+
+
