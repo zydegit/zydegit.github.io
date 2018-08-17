@@ -1,0 +1,41 @@
+.tou{
+    width: 100%;
+    background: #b40431;
+    height: 30px;
+}
+.c-tou{
+    padding-top: .58em;
+    font-weight: 600;
+}
+.nav-pills{
+    margin-top: 30px;
+}
+.btn-danger{
+    border-radius:50px;
+}
+.btn-danger a{
+    color: aliceblue;
+}
+footer{
+    background: #222;
+    height: 55px;
+}
+.dz{
+    margin-top: 20px;
+    display: block;
+    float: left;
+    color: #ffffff;
+    font-size: 15px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+.dy{
+    display: block;
+    float: left;
+}
+.d1{
+    margin-top: 20px;
+    color: white;
+    font-size: 19px;
+    margin-left: 31px;
+}
