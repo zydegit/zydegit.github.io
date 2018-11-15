@@ -1,10 +1,10 @@
 # Site settings
-title: Longing Blog
-SEOTitle: 憧憬的博客 | Longing Blog
+title: Zyddddd Blog
+SEOTitle: 张岳的博客 | Zydddd Blog
 header-img: img/home-bg.jpg
-email: 2232824543@qq.com
-description: "关于程序与设计、黑客与画家 | 张岳，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Longing憧憬 的个人博客，与你一起发现更大的世界。"
-keyword: "张岳, Longing憧憬, Longing, 鬼栈, Longingpro, @longingpro, 憧憬的博客, Longing Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+email: 1334172195@qq.com
+description: "关于程序与设计、黑客与画家 | 张岳，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Zy张岳 的个人博客，与你一起发现更大的世界。"
+keyword: "张岳, Longing憧憬, Longing, 鬼栈, Longingpro, @longingpro, 张岳的博客, Longing Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://zydegit.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
