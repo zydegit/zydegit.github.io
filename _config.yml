@@ -3,9 +3,9 @@ title: Longing Blog
 SEOTitle: 憧憬的博客 | Longing Blog
 header-img: img/home-bg.jpg
 email: 2232824543@qq.com
-description: "关于程序与设计、黑客与画家 | 憧憬，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Longing憧憬 的个人博客，与你一起发现更大的世界。"
-keyword: "憧憬, Longing憧憬, Longing, 鬼栈, Longingpro, @longingpro, 憧憬的博客, Longing Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://testsling.github.io"              # your host, for absolute URL
+description: "关于程序与设计、黑客与画家 | 张岳，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Longing憧憬 的个人博客，与你一起发现更大的世界。"
+keyword: "张岳, Longing憧憬, Longing, 鬼栈, Longingpro, @longingpro, 憧憬的博客, Longing Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://zydegit.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    testsling
+github_username:    zydegit
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: Longing
+disqus_username: Zhang
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: testsling.github.io
+ga_domain: zydegit.github.io
 
 
 
